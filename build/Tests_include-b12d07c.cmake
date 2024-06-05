@@ -1,0 +1,5 @@
+if(EXISTS "/Users/davidfeatherstone/Development/AudioPluginTemplate/build/Tests_tests-b12d07c.cmake")
+  include("/Users/davidfeatherstone/Development/AudioPluginTemplate/build/Tests_tests-b12d07c.cmake")
+else()
+  add_test(Tests_NOT_BUILT-b12d07c Tests_NOT_BUILT-b12d07c)
+endif()

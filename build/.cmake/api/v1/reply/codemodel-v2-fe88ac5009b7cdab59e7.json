@@ -1,0 +1,212 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "JUCE",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE-Debug-0dd40e2a50d00c3dece3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "JUCE"
+				},
+				{
+					"build" : "JUCE/modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE.modules-Debug-20d7ce0d41cd5b2ee593.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "JUCE/modules"
+				},
+				{
+					"build" : "JUCE/extras/Build",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE.extras.Build-Debug-da8f8edfa979b2c5464a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "JUCE/extras/Build"
+				},
+				{
+					"build" : "JUCE/extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-JUCE.extras.Build.juceaide-Debug-fa70da4a4e2e980ebaad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "JUCE/extras/Build/juceaide"
+				},
+				{
+					"build" : "modules/melatonin_inspector",
+					"jsonFile" : "directory-modules.melatonin_inspector-Debug-87e05bf780aaa9b01929.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "modules/melatonin_inspector"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pamplejuce",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "JUCE",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "MelatoninInspector",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Assets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assets-Debug-fdf539ea0ac5758d84d8.json",
+					"name" : "Assets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pamplejuce::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pamplejuce-Debug-06aba696abc4ed497ee1.json",
+					"name" : "Pamplejuce",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pamplejuce_AU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pamplejuce_AU-Debug-5eed0000c317bcd33a7a.json",
+					"name" : "Pamplejuce_AU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pamplejuce_All::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pamplejuce_All-Debug-de288a62c3dada4059cc.json",
+					"name" : "Pamplejuce_All",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pamplejuce_Standalone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pamplejuce_Standalone-Debug-bffa72f40551094a4d69.json",
+					"name" : "Pamplejuce_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pamplejuce_VST3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pamplejuce_VST3-Debug-5db238c3ee4d3b28cf7f.json",
+					"name" : "Pamplejuce_VST3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juce_vst3_helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juce_vst3_helper-Debug-13fd384499477167fff2.json",
+					"name" : "juce_vst3_helper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/davidfeatherstone/Development/AudioPluginTemplate/build",
+		"source" : "/Users/davidfeatherstone/Development/AudioPluginTemplate"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

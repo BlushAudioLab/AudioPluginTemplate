@@ -1,0 +1,5 @@
+if(EXISTS "/Users/davidfeatherstone/Development/AudioPluginTemplate/build/Benchmarks_tests-b12d07c.cmake")
+  include("/Users/davidfeatherstone/Development/AudioPluginTemplate/build/Benchmarks_tests-b12d07c.cmake")
+else()
+  add_test(Benchmarks_NOT_BUILT-b12d07c Benchmarks_NOT_BUILT-b12d07c)
+endif()
