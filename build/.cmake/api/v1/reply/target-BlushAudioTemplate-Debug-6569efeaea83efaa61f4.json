@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Pamplejuce_artefacts/Debug/libPamplejuce Demo_SharedCode.a"
+			"path" : "BlushAudioTemplate_artefacts/Debug/libBlush Audio Template_SharedCode.a"
 		}
 	],
 	"backtrace" : 2,
@@ -386,7 +386,7 @@
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_AAXIdentifier=com.pamplejuce.pamplejuce"
+					"define" : "JucePlugin_AAXIdentifier=com.blushaudio.template"
 				},
 				{
 					"backtrace" : 7,
@@ -406,11 +406,11 @@
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_ARADocumentArchiveID=\"com.pamplejuce.pamplejuce.aradocumentarchive.1\""
+					"define" : "JucePlugin_ARADocumentArchiveID=\"com.blushaudio.template.aradocumentarchive.1\""
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_ARAFactoryID=\"com.pamplejuce.pamplejuce.arafactory.0.0.1\""
+					"define" : "JucePlugin_ARAFactoryID=\"com.blushaudio.template.arafactory.0.0.1\""
 				},
 				{
 					"backtrace" : 7,
@@ -418,11 +418,11 @@
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_AUExportPrefix=Pamplejuce_DemoAU"
+					"define" : "JucePlugin_AUExportPrefix=Blush_Audio_TemplateAU"
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_AUExportPrefixQuoted=\"Pamplejuce_DemoAU\""
+					"define" : "JucePlugin_AUExportPrefixQuoted=\"Blush_Audio_TemplateAU\""
 				},
 				{
 					"backtrace" : 7,
@@ -470,11 +470,11 @@
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_CFBundleIdentifier=com.pamplejuce.pamplejuce"
+					"define" : "JucePlugin_CFBundleIdentifier=com.blushaudio.template"
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_Desc=\"Pamplejuce Demo\""
+					"define" : "JucePlugin_Desc=\"Blush Audio Template\""
 				},
 				{
 					"backtrace" : 7,
@@ -494,11 +494,11 @@
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_Manufacturer=\"Pamplejuce Company\""
+					"define" : "JucePlugin_Manufacturer=\"Blush Audio\""
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_ManufacturerCode=0x50616d70"
+					"define" : "JucePlugin_ManufacturerCode=0x426c7573"
 				},
 				{
 					"backtrace" : 7,
@@ -510,11 +510,11 @@
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_Name=\"Pamplejuce Demo\""
+					"define" : "JucePlugin_Name=\"Blush Audio Template\""
 				},
 				{
 					"backtrace" : 7,
-					"define" : "JucePlugin_PluginCode=0x50303031"
+					"define" : "JucePlugin_PluginCode=0x42303031"
 				},
 				{
 					"backtrace" : 7,
@@ -558,7 +558,7 @@
 				},
 				{
 					"backtrace" : 3,
-					"define" : "PRODUCT_NAME_WITHOUT_VERSION=\"Pamplejuce\""
+					"define" : "PRODUCT_NAME_WITHOUT_VERSION=\"BlushAudioTemplate\""
 				},
 				{
 					"backtrace" : 3,
@@ -573,7 +573,7 @@
 			[
 				{
 					"backtrace" : 18,
-					"path" : "/Users/davidfeatherstone/Development/AudioPluginTemplate/build/Pamplejuce_artefacts/JuceLibraryCode"
+					"path" : "/Users/davidfeatherstone/Development/AudioPluginTemplate/build/BlushAudioTemplate_artefacts/JuceLibraryCode"
 				},
 				{
 					"backtrace" : 5,
@@ -664,11 +664,11 @@
 	],
 	"folder" : 
 	{
-		"name" : "Pamplejuce"
+		"name" : "BlushAudioTemplate"
 	},
-	"id" : "Pamplejuce::@6890427a1f51a3e7e1df",
-	"name" : "Pamplejuce",
-	"nameOnDisk" : "libPamplejuce Demo_SharedCode.a",
+	"id" : "BlushAudioTemplate::@6890427a1f51a3e7e1df",
+	"name" : "BlushAudioTemplate",
+	"nameOnDisk" : "libBlush Audio Template_SharedCode.a",
 	"paths" : 
 	{
 		"build" : ".",

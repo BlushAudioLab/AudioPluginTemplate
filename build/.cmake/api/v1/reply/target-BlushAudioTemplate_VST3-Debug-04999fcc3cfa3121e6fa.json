@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Pamplejuce_artefacts/Debug/VST3/Pamplejuce Demo.vst3/Contents/MacOS/Pamplejuce Demo"
+			"path" : "BlushAudioTemplate_artefacts/Debug/VST3/Blush Audio Template.vst3/Contents/MacOS/Blush Audio Template"
 		}
 	],
 	"backtrace" : 4,
@@ -175,6 +175,9 @@
 			"defines" : 
 			[
 				{
+					"define" : "BlushAudioTemplate_VST3_EXPORTS"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "CMAKE_BUILD_TYPE=\"Debug\""
 				},
@@ -276,7 +279,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_AAXIdentifier=com.pamplejuce.pamplejuce"
+					"define" : "JucePlugin_AAXIdentifier=com.blushaudio.template"
 				},
 				{
 					"backtrace" : 5,
@@ -296,11 +299,11 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_ARADocumentArchiveID=\"com.pamplejuce.pamplejuce.aradocumentarchive.1\""
+					"define" : "JucePlugin_ARADocumentArchiveID=\"com.blushaudio.template.aradocumentarchive.1\""
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_ARAFactoryID=\"com.pamplejuce.pamplejuce.arafactory.0.0.1\""
+					"define" : "JucePlugin_ARAFactoryID=\"com.blushaudio.template.arafactory.0.0.1\""
 				},
 				{
 					"backtrace" : 5,
@@ -308,11 +311,11 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_AUExportPrefix=Pamplejuce_DemoAU"
+					"define" : "JucePlugin_AUExportPrefix=Blush_Audio_TemplateAU"
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_AUExportPrefixQuoted=\"Pamplejuce_DemoAU\""
+					"define" : "JucePlugin_AUExportPrefixQuoted=\"Blush_Audio_TemplateAU\""
 				},
 				{
 					"backtrace" : 5,
@@ -360,11 +363,11 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_CFBundleIdentifier=com.pamplejuce.pamplejuce"
+					"define" : "JucePlugin_CFBundleIdentifier=com.blushaudio.template"
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_Desc=\"Pamplejuce Demo\""
+					"define" : "JucePlugin_Desc=\"Blush Audio Template\""
 				},
 				{
 					"backtrace" : 5,
@@ -384,11 +387,11 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_Manufacturer=\"Pamplejuce Company\""
+					"define" : "JucePlugin_Manufacturer=\"Blush Audio\""
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_ManufacturerCode=0x50616d70"
+					"define" : "JucePlugin_ManufacturerCode=0x426c7573"
 				},
 				{
 					"backtrace" : 5,
@@ -400,11 +403,11 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_Name=\"Pamplejuce Demo\""
+					"define" : "JucePlugin_Name=\"Blush Audio Template\""
 				},
 				{
 					"backtrace" : 5,
-					"define" : "JucePlugin_PluginCode=0x50303031"
+					"define" : "JucePlugin_PluginCode=0x42303031"
 				},
 				{
 					"backtrace" : 5,
@@ -448,10 +451,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PRODUCT_NAME_WITHOUT_VERSION=\"Pamplejuce\""
-				},
-				{
-					"define" : "Pamplejuce_VST3_EXPORTS"
+					"define" : "PRODUCT_NAME_WITHOUT_VERSION=\"BlushAudioTemplate\""
 				},
 				{
 					"backtrace" : 5,
@@ -466,7 +466,7 @@
 			[
 				{
 					"backtrace" : 17,
-					"path" : "/Users/davidfeatherstone/Development/AudioPluginTemplate/build/Pamplejuce_artefacts/JuceLibraryCode"
+					"path" : "/Users/davidfeatherstone/Development/AudioPluginTemplate/build/BlushAudioTemplate_artefacts/JuceLibraryCode"
 				},
 				{
 					"backtrace" : 17,
@@ -546,7 +546,7 @@
 	[
 		{
 			"backtrace" : 5,
-			"id" : "Pamplejuce::@6890427a1f51a3e7e1df"
+			"id" : "BlushAudioTemplate::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 16,
@@ -561,7 +561,7 @@
 	{
 		"name" : "Targets"
 	},
-	"id" : "Pamplejuce_VST3::@6890427a1f51a3e7e1df",
+	"id" : "BlushAudioTemplate_VST3::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -572,7 +572,7 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "\"Pamplejuce_artefacts/Debug/libPamplejuce Demo_SharedCode.a\"",
+				"fragment" : "\"BlushAudioTemplate_artefacts/Debug/libBlush Audio Template_SharedCode.a\"",
 				"role" : "libraries"
 			},
 			{
@@ -641,8 +641,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Pamplejuce_VST3",
-	"nameOnDisk" : "Pamplejuce Demo.vst3/Contents/MacOS/Pamplejuce Demo",
+	"name" : "BlushAudioTemplate_VST3",
+	"nameOnDisk" : "Blush Audio Template.vst3/Contents/MacOS/Blush Audio Template",
 	"paths" : 
 	{
 		"build" : ".",
@@ -687,19 +687,19 @@
 	[
 		{
 			"backtrace" : 20,
-			"path" : "build/Pamplejuce_artefacts/JuceLibraryCode/Icon.icns",
+			"path" : "build/BlushAudioTemplate_artefacts/JuceLibraryCode/Icon.icns",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 21,
 			"isGenerated" : true,
-			"path" : "build/Pamplejuce_artefacts/JuceLibraryCode/Pamplejuce_VST3/PkgInfo",
+			"path" : "build/BlushAudioTemplate_artefacts/JuceLibraryCode/BlushAudioTemplate_VST3/PkgInfo",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Pamplejuce_artefacts/JuceLibraryCode/Pamplejuce_VST3/PkgInfo.rule",
+			"path" : "build/BlushAudioTemplate_artefacts/JuceLibraryCode/BlushAudioTemplate_VST3/PkgInfo.rule",
 			"sourceGroupIndex" : 1
 		},
 		{

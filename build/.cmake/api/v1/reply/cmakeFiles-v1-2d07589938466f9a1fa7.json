@@ -198,15 +198,15 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Pamplejuce_artefacts/JuceLibraryCode/Pamplejuce_Standalone/Info.plist"
+			"path" : "build/BlushAudioTemplate_artefacts/JuceLibraryCode/BlushAudioTemplate_Standalone/Info.plist"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Pamplejuce_artefacts/JuceLibraryCode/Pamplejuce_AU/Info.plist"
+			"path" : "build/BlushAudioTemplate_artefacts/JuceLibraryCode/BlushAudioTemplate_AU/Info.plist"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Pamplejuce_artefacts/JuceLibraryCode/Pamplejuce_VST3/Info.plist"
+			"path" : "build/BlushAudioTemplate_artefacts/JuceLibraryCode/BlushAudioTemplate_VST3/Info.plist"
 		},
 		{
 			"path" : "JUCE/CMakeLists.txt"

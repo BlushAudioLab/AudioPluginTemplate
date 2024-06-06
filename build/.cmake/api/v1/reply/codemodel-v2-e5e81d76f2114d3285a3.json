@@ -112,7 +112,7 @@
 					[
 						0
 					],
-					"name" : "Pamplejuce",
+					"name" : "BlushAudioTemplate",
 					"targetIndexes" : 
 					[
 						0,
@@ -155,37 +155,37 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Pamplejuce::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Pamplejuce-Debug-06aba696abc4ed497ee1.json",
-					"name" : "Pamplejuce",
+					"id" : "BlushAudioTemplate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlushAudioTemplate-Debug-6569efeaea83efaa61f4.json",
+					"name" : "BlushAudioTemplate",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Pamplejuce_AU::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Pamplejuce_AU-Debug-5eed0000c317bcd33a7a.json",
-					"name" : "Pamplejuce_AU",
+					"id" : "BlushAudioTemplate_AU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlushAudioTemplate_AU-Debug-ba47ae5ab05d966e46e2.json",
+					"name" : "BlushAudioTemplate_AU",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Pamplejuce_All::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Pamplejuce_All-Debug-de288a62c3dada4059cc.json",
-					"name" : "Pamplejuce_All",
+					"id" : "BlushAudioTemplate_All::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlushAudioTemplate_All-Debug-c8997753084b63ab61c9.json",
+					"name" : "BlushAudioTemplate_All",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Pamplejuce_Standalone::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Pamplejuce_Standalone-Debug-bffa72f40551094a4d69.json",
-					"name" : "Pamplejuce_Standalone",
+					"id" : "BlushAudioTemplate_Standalone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlushAudioTemplate_Standalone-Debug-558ba1abc5e548429a2d.json",
+					"name" : "BlushAudioTemplate_Standalone",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Pamplejuce_VST3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Pamplejuce_VST3-Debug-5db238c3ee4d3b28cf7f.json",
-					"name" : "Pamplejuce_VST3",
+					"id" : "BlushAudioTemplate_VST3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlushAudioTemplate_VST3-Debug-04999fcc3cfa3121e6fa.json",
+					"name" : "BlushAudioTemplate_VST3",
 					"projectIndex" : 0
 				},
 				{

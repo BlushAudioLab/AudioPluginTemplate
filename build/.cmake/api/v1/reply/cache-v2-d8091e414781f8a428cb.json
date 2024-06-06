@@ -2,6 +2,42 @@
 	"entries" : 
 	[
 		{
+			"name" : "BlushAudioTemplate_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/davidfeatherstone/Development/AudioPluginTemplate/build"
+		},
+		{
+			"name" : "BlushAudioTemplate_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "BlushAudioTemplate_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/davidfeatherstone/Development/AudioPluginTemplate"
+		},
+		{
 			"name" : "BlushAudio_BINARY_DIR",
 			"properties" : 
 			[
@@ -1775,7 +1811,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Pamplejuce"
+			"value" : "BlushAudioTemplate"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",

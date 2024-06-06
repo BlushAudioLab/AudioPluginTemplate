@@ -80,23 +80,23 @@
 	[
 		{
 			"backtrace" : 5,
-			"id" : "Pamplejuce_Standalone::@6890427a1f51a3e7e1df"
+			"id" : "BlushAudioTemplate_Standalone::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 7,
-			"id" : "Pamplejuce_AU::@6890427a1f51a3e7e1df"
+			"id" : "BlushAudioTemplate_AU::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 9,
-			"id" : "Pamplejuce_VST3::@6890427a1f51a3e7e1df"
+			"id" : "BlushAudioTemplate_VST3::@6890427a1f51a3e7e1df"
 		}
 	],
 	"folder" : 
 	{
 		"name" : "Targets"
 	},
-	"id" : "Pamplejuce_All::@6890427a1f51a3e7e1df",
-	"name" : "Pamplejuce_All",
+	"id" : "BlushAudioTemplate_All::@6890427a1f51a3e7e1df",
+	"name" : "BlushAudioTemplate_All",
 	"paths" : 
 	{
 		"build" : ".",
